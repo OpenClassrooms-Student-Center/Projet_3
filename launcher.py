@@ -1,18 +1,15 @@
 import json
 
+#pprint, autre solution?, methode pprint pour mettre un viseul agréable
+
 import item
 import layout
 import path
 import player
 import position
-#import list_of_valid_path --only if I can't implement it another way--
 
 def main():
-    for labyrinth in json.load(open("labyrinth.json")):
-        with open('labyrinth.json') as f:
-            maze = json.load(f)
-            # read list = laby dans json 
-# print(maze)
+    pass
 main()
  
 

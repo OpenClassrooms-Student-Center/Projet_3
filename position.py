@@ -1,9 +1,8 @@
 class Position:
     def __init__(self, x, y):
-        self.x = x
-        self.y = y
-        #top is top left
-
+        for line in self.structure:
+            for char in line:
+                pass
 #class Player_position:
 #    def __init__(self):
 #        self.x_pos = 11

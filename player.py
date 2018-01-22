@@ -23,3 +23,7 @@ class Player:
         #    try move down using "def is_target_area_valid"
         #        self.position X +0, Y -1
         #    else invalid move 
+
+    #afficher laby, puis demande a l'utilisateur ce qu'il veux faire: haut bas gauche droite ou quiter => h b d g ou q 
+    #puis reprint et relancer question
+    #communiquer player et layout? /!\
