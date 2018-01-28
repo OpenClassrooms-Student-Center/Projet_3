@@ -1,5 +1,10 @@
 class Player:
-    pass
+    print("Que voulez vous faire? Entrée pour avancer, Q pour quiter")
+    if input == q:
+        exit()
+    else:
+        #move mi
+        pass
     #attribut self.pos => position
     #methode move pour le déplacer
     #mouvement par texte move("r"),move("l")...

@@ -1,12 +1,11 @@
 import json
 
-#pprint, autre solution?, methode pprint pour mettre un viseul agréable
+#pprint, autre solution?, methode pprint pour mettre un visuel agréable
 
-import item
 import layout
-import path
-import player
-import position
+#import path
+#import player
+#import position
 
 def main():
     pass
